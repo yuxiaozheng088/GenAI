@@ -299,7 +299,7 @@ Please cite:
 }
 ```
 ## About the Maintainer
-- **Name:** Yuxuan Zhao
-- **Contact:** yz4397@columbia.edu
+- **Name:** Yuxuan Zhao, Yuxiao Zheng
+- **Contact:** yz4397@columbia.edu, yz4364@columbia.edu
 - **Affiliation/Organization:** Columbia University
 
